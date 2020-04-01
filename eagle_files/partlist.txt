@@ -1,0 +1,104 @@
+Partlist
+
+Exported from charginator_v1.sch at 01.04.2020 11:05
+
+EAGLE Version 9.3.0 Copyright (c) 1988-2019 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value                   Device                  Package             Library             Sheet
+
+C1       100n                    C-EUC1206               C1206               resistor            1
+C2       100n                    C-EUC1206               C1206               resistor            2
+C3       1u                      C-EUC1206               C1206               resistor            4
+C4       100n                    C-EUC1206               C1206               resistor            4
+C5       10u                     C-EUC1206               C1206               resistor            4
+C6       22u                     C-EUC1206               C1206               resistor            4
+C7       100n                    C-EUC1206               C1206               resistor            2
+C8       100n                    C-EUC1206               C1206               resistor            1
+C9       10u                     C-EUC1206               C1206               resistor            4
+C10      22u                     C-EUC1206               C1206               resistor            4
+C11      1u                      C-EUC1206               C1206               resistor            4
+C12      100n                    C-EUC1206               C1206               resistor            4
+C13      10u                     C-EUC1206               C1206               resistor            4
+C14      22u                     C-EUC1206               C1206               resistor            4
+C15      10u                     C-EUC1206               C1206               resistor            4
+C16      22u                     C-EUC1206               C1206               resistor            4
+C17      1000u                   CPOL-EUE5-10.5          E5-10,5             resistor            1
+C18      1000u                   CPOL-EUE5-13            E5-13               resistor            1
+C29      1u                      C-EUC1206               C1206               resistor            3
+C30      100n                    C-EUC1206               C1206               resistor            3
+C31      10u                     C-EUC1206               C1206               resistor            3
+C32      22u                     C-EUC1206               C1206               resistor            3
+C33      10u                     C-EUC1206               C1206               resistor            3
+C34      22u                     C-EUC1206               C1206               resistor            3
+C35      1u                      C-EUC1206               C1206               resistor            3
+C36      100n                    C-EUC1206               C1206               resistor            3
+C37      10u                     C-EUC1206               C1206               resistor            3
+C38      22u                     C-EUC1206               C1206               resistor            3
+C39      10u                     C-EUC1206               C1206               resistor            3
+C40      22u                     C-EUC1206               C1206               resistor            3
+F1       6V/2A                   PPTC_HALF-AMP           1206                SparkFun-Fuses      2
+F2       6V/2A                   PPTC_HALF-AMP           1206                SparkFun-Fuses      1
+F3       6V/2A                   PPTC_HALF-AMP           1206                SparkFun-Fuses      1
+F4       6V/2A                   PPTC_HALF-AMP           1206                SparkFun-Fuses      1
+F5       6V/2A                   PPTC_HALF-AMP           1206                SparkFun-Fuses      1
+F6       6V/2A                   PPTC_HALF-AMP           1206                SparkFun-Fuses      2
+F7       6V/2A                   PPTC_HALF-AMP           1206                SparkFun-Fuses      2
+F8       12V/2A                  PPTC_HALF-AMP           1206                SparkFun-Fuses      4
+F11      12V/2A                  PPTC_HALF-AMP           1206                SparkFun-Fuses      4
+F12      12V/2A                  PPTC_HALF-AMP           1206                SparkFun-Fuses      3
+F13      12V/2A                  PPTC_HALF-AMP           1206                SparkFun-Fuses      3
+L1       8u2                     DR73                    DR73                inductors           4
+L2       8u2                     DR73                    DR73                inductors           4
+L5       8u2                     DR73                    DR73                inductors           3
+L6       8u2                     DR73                    DR73                inductors           3
+LED1                             LED5MM                  LED5MM              led                 1
+LED2                             LED5MM                  LED5MM              led                 1
+OUT1     5MM_SCREWTERMINAL_LARGE 5MM_SCREWTERMINAL_LARGE SCREWTERMINAL-5MM-2 custom              1
+OUT2     5MM_SCREWTERMINAL_LARGE 5MM_SCREWTERMINAL_LARGE SCREWTERMINAL-5MM-2 custom              1
+OUT3     FEMALE 2x3              CONN_03X2FEMALE         2X3                 SparkFun-Connectors 1
+R1       2k2                     R-EU_M1206              M1206               resistor            1
+R2       2k2                     R-EU_M1206              M1206               resistor            1
+R3       10R 5W                  RESISTOR_5W             POWER_RESISTOR_5W   custom              1
+R4       10R 5W                  RESISTOR_5W             POWER_RESISTOR_5W   custom              1
+R5       50R 5W                  RESISTOR_5W             POWER_RESISTOR_5W   custom              1
+R6       2k2                     R-EU_R1206              R1206               resistor            4
+R7       127k                    R-EU_R1206              R1206               resistor            4
+R8       100k                    R-EU_R1206              R1206               resistor            4
+R9       13k                     R-EU_R1206              R1206               resistor            4
+R10      2k2                     R-EU_R1206              R1206               resistor            4
+R11      127k                    R-EU_R1206              R1206               resistor            4
+R12      100k                    R-EU_R1206              R1206               resistor            4
+R13      13k                     R-EU_R1206              R1206               resistor            4
+R22      2k2                     R-EU_R1206              R1206               resistor            3
+R23      127k                    R-EU_R1206              R1206               resistor            3
+R24      100k                    R-EU_R1206              R1206               resistor            3
+R25      13k                     R-EU_R1206              R1206               resistor            3
+R26      2k2                     R-EU_R1206              R1206               resistor            3
+R27      127k                    R-EU_R1206              R1206               resistor            3
+R28      100k                    R-EU_R1206              R1206               resistor            3
+R29      13k                     R-EU_R1206              R1206               resistor            3
+SW1      SPST_SWITCH             SPST_SWITCH             TL3XYO              custom              1
+U$1      DUAL-PORT-USB-REC       DUAL-PORT-USB-REC       DUAL-PORT-USB       tps2511             1
+U$2      DUAL-PORT-USB-REC       DUAL-PORT-USB-REC       DUAL-PORT-USB       tps2511             1
+U$3      DUAL-PORT-USB-REC       DUAL-PORT-USB-REC       DUAL-PORT-USB       tps2511             2
+U$4      DUAL-PORT-USB-REC       DUAL-PORT-USB-REC       DUAL-PORT-USB       tps2511             4
+U$5      USB_A_REVERSED          USB_A_REVERSED          USB-A-S-SILK-FEMALE custom              2
+U$6      DUAL-PORT-USB-REC       DUAL-PORT-USB-REC       DUAL-PORT-USB       tps2511             3
+U1       FP6601                  IPT2601                 SOT23-6             custom              2
+U2       FP6601                  IPT2601                 SOT23-6             custom              1
+U3       FP6601                  IPT2601                 SOT23-6             custom              1
+U4       FP6601                  IPT2601                 SOT23-6             custom              1
+U5       FP6601                  IPT2601                 SOT23-6             custom              1
+U6       FP6601                  IPT2601                 SOT23-6             custom              2
+U7       FP6601                  IPT2601                 SOT23-6             custom              2
+U8       FR9885                  FR9885                  SOT23-6             custom              4
+U9       FP6601                  IPT2601                 SOT23-6             custom              4
+U10      FR9885                  FR9885                  SOT23-6             custom              4
+U11      FP6601                  IPT2601                 SOT23-6             custom              4
+U16      FR9885                  FR9885                  SOT23-6             custom              3
+U17      FP6601                  IPT2601                 SOT23-6             custom              3
+U18      FR9885                  FR9885                  SOT23-6             custom              3
+U19      FP6601                  IPT2601                 SOT23-6             custom              3
+X1       5566-24                 5566-24                 5566-24             con-molex           1
